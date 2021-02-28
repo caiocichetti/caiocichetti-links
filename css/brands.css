@@ -260,11 +260,11 @@ button:hover,
 .button.button-youtube:hover,
 .button.button-youtube:focus {
   filter: brightness(90%) }
-
-/* Wordpress */
-.button.button-wordpress {
+  
+  /* Rocketseat */
+.button.button-rocketseat {
   color: #FFFFFF;
-  background-color: #21759b }
-.button.button-wordpress:hover,
-.button.button-wordpress:focus {
+  background-color: #8257E6 }
+.button.button-rocketseat:hover,
+.button.button-rocketseat:focus {
   filter: brightness(90%) }
