@@ -77,6 +77,11 @@ button:hover,
 .button.button-instagram:focus {
   filter: brightness(90%);
 }
+/* Setup */
+.button.button-setup {
+  color: #ffffff;
+  background-color: #2867b2;
+}
 
 /* LinkedIn */
 .button.button-linkedin {
@@ -84,7 +89,9 @@ button:hover,
   background-color: #2867b2;
 }
 .button.button-linkedin:hover,
-.button.button-linkedin:focus {
+.button.button-linkedin:focus,
+.button.button-setup:hover,
+.button.button-setup:focus {
   filter: brightness(90%);
 }
 
