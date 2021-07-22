@@ -35,7 +35,7 @@ function Dashboard() {
           <br />
 
           <a
-            class='button button-github'
+            className='button button-github'
             href='https://github.com/caiocichetti'
           >
             <img className='icon' src={GithubImage} alt='Github' />
@@ -45,63 +45,58 @@ function Dashboard() {
           <br />
 
           <a
-            class='button button-instagram'
+            className='button button-instagram'
             href='https://www.instagram.com/caiocichetti_/'
           >
-            <img class='icon' src={InstagramImage} />
+            <img className='icon' src={InstagramImage} alt='Instagram' />
             Instagram
           </a>
           <br />
 
           <a
-            class='button button-linkedin'
+            className='button button-linkedin'
             href='https://www.linkedin.com/in/caio-antonio-cichetti-roberto/'
           >
-            <img class='icon' src={LinkedinImage} />
+            <img className='icon' src={LinkedinImage} alt='Linkedin' />
             LinkedIn
           </a>
           <br />
 
           <a
-            class='button button-rocketseat'
+            className='button button-rocketseat'
             href='https://app.rocketseat.com.br/me/caiocichetti'
           >
-            <img class='icon' src={RocketseatImage} />
+            <img className='icon' src={RocketseatImage} alt='Rocketseat' />
             Rocketseat
           </a>
           <br />
 
           <a
-            class='button button-youtube'
+            className='button button-youtube'
             href='https://www.youtube.com/channel/UCQzuUbdiaL9-xtlGrfS9QQQ'
           >
-            <img class='icon' src={YoutubeImage} />
+            <img className='icon' src={YoutubeImage} alt='Youtube' />
             YouTube
           </a>
           <br />
 
-          <a class='button button-telegram' href='https://t.me/caiocichetti'>
-            <img class='icon' src={TelegramImage} />
+          <a
+            className='button button-telegram'
+            href='https://t.me/caiocichetti'
+          >
+            <img className='icon' src={TelegramImage} alt='Telegram' />
             Telegram
           </a>
           <br />
 
           <a
-            class='button button-twitch'
+            className='button button-twitch'
             href='https://www.twitch.tv/caio_antonio'
           >
-            <img class='icon' src={TwitchImage} />
+            <img className='icon' src={TwitchImage} alt='Twitch' />
             Twitch
           </a>
-          <br />
 
-          <a
-            class='button button-steam'
-            href='https://steamcommunity.com/id/caio2002'
-          >
-            <img class='icon' src={SteamImage} />
-            Steam
-          </a>
           <br />
           <br />
           <br />
