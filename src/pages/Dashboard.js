@@ -12,7 +12,6 @@ import RocketseatImage from '../icons/rocketseat.svg';
 import YoutubeImage from '../icons/youtube.svg';
 import TelegramImage from '../icons/telegram.svg';
 import TwitchImage from '../icons/twitch.svg';
-import SteamImage from '../icons/steam.svg';
 
 function Dashboard() {
   return (
