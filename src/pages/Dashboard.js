@@ -20,7 +20,7 @@ function Dashboard() {
         <div className='column'>
           <img className='photo' src={CaioImage} alt='Caio' />
 
-          <h1>Caio Cichetti</h1>
+          <h1>Caio Antonio</h1>
 
           <p>
             I currently study Computer Engineering at USF and work with
@@ -33,7 +33,7 @@ function Dashboard() {
 
           <br />
 
-          <a className='button button-github' href='https://github.com/caio19c'>
+          <a className='button button-github' href='https://github.com/caioanton1o'>
             <img className='icon' src={GithubImage} alt='Github' />
             Github
           </a>
@@ -42,7 +42,7 @@ function Dashboard() {
 
           <a
             className='button button-instagram'
-            href='https://www.instagram.com/caiocichetti_/'
+            href='https://www.instagram.com/caioanton1o/'
           >
             <img className='icon' src={InstagramImage} alt='Instagram' />
             Instagram
@@ -60,7 +60,7 @@ function Dashboard() {
 
           <a
             className='button button-rocketseat'
-            href='https://app.rocketseat.com.br/me/caiocichetti'
+            href='https://app.rocketseat.com.br/me/caioantonio'
           >
             <img className='icon' src={RocketseatImage} alt='Rocketseat' />
             Rocketseat
@@ -78,7 +78,7 @@ function Dashboard() {
 
           <a
             className='button button-telegram'
-            href='https://t.me/caiocichetti'
+            href='https://t.me/caio_antonio'
           >
             <img className='icon' src={TelegramImage} alt='Telegram' />
             Telegram
@@ -97,9 +97,7 @@ function Dashboard() {
           <br />
           <br />
           <br />
-          <p>
-            Built by ©Caio Cichetti | Forked LittleLink | Deployed at Vercel
-          </p>
+          <p>Built by ©Caio Antonio | Forked LittleLink | Deployed at Vercel</p>
 
           <br />
         </div>
