@@ -2,7 +2,7 @@
 
 ![LittleLink](https://cdn.cottle.cloud/littlelink/social-circle.png)
 
-[![Labeler](https://github.com/ca1o19c/caioantonio-links/actions/workflows/label.yml/badge.svg?branch=dev&event=pull_request)](https://github.com/ca1o19c/caioantonio-links/actions/workflows/label.yml)
+[![Labeler](https://github.com/ca1o19c/caioantonio-links/actions/workflows/label.yml/badge.svg?branch=dev&event=deployment)](https://github.com/ca1o19c/caioantonio-links/actions/workflows/label.yml)
 
 LittleLink is a lightweight DIY alternative to services like [Linktree](https://linktr.ee)
 and [many.link](https://www.google.com). LittleLink was built using [Skeleton](http://getskeleton.com/), a dead simple, responsive boilerplate—we just stripped out some additional code you wouldn't need and added in branded styles for popular services. 😊
