@@ -18,7 +18,7 @@ function Dashboard() {
     <div className='container'>
       <div className='row'>
         <div className='column'>
-          <img className='photo' src={CaioImage} alt='Caio' />
+          <img className='photo' src={CaioImage} alt='Caio Antonio' />
 
           <h1>Caio Antonio</h1>
 
