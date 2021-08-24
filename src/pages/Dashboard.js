@@ -33,7 +33,7 @@ function Dashboard() {
 
           <br />
 
-          <a className='button button-github' href='https://github.com/caioanton1o'>
+          <a className='button button-github' href='https://github.com/ca1o19c'>
             <img className='icon' src={GithubImage} alt='Github' />
             Github
           </a>
